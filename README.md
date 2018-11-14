@@ -1,10 +1,11 @@
 ## projet de semestre -cloud computing 
 
-### Travail à réaliser 
+### Travail à réaliser #
 <p>Dévelepoment et déploiement  d'une application de conversion de document sur Cloud .
   </p>
   
-  ##Partie 1:
+  ### Partie 1 #
+  
   <p>Architecture de l'application et modéle de données:
 
   </p>
@@ -27,4 +28,4 @@ car elle offre beaucoup d'avantages .On peut citer par exemple :
 
   </p>
   
-  +
+  
